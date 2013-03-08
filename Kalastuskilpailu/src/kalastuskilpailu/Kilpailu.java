@@ -69,7 +69,7 @@ public class Kilpailu {
         System.out.println("*** KALASTUSKILPAILU ***");
         System.out.println("");
         System.out.println("Järvessä on sinttejä, särkiä, ahvenia ja haukia.");
-        System.out.println("Syötteinä käytetään matoja, joita on aluksi 10 kpl.");
+        System.out.println("Syötteinä käytetään matoja, joita on aluksi 5 kpl.");
         System.out.println("Sintit ja särjet eivät kelpaa kilpailukaloiksi, mutta niitä voi käyttää syötteinä.");
         System.out.println("");
         System.out.println("Yksinpelissä järvellä on 2-" + muutKilpailijat.size() + " muuta kilpailijaa.");
